@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 31
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Alejandra",
+    "apellido": "Toapanta",
+    "cedula": "1243231411"
+  },
+  "curso": {
+    "titulo": "Fisica Clásica",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 48
+      },
+      "valor": 17.05,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 52
+      },
+      "valor": 15.05,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 59
+      },
+      "valor": 9.05,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "7cc8505f-19ce-4cfa-9840-55f6c6d7b3f9",
+  "promedio": 13.716666
+}

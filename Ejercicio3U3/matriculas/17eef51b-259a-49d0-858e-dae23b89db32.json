@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 24,
+    "second": 1
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Jose",
+    "apellido": "Navas",
+    "cedula": "134214243"
+  },
+  "curso": {
+    "titulo": "Fisica Clásica",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 54
+      },
+      "valor": 15.04,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 43
+      },
+      "valor": 14.139999,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 47
+      },
+      "valor": 14.08,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "17eef51b-259a-49d0-858e-dae23b89db32",
+  "promedio": 14.420001
+}

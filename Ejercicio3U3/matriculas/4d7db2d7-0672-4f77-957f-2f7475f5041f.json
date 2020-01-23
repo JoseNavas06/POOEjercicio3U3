@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 10
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Andrea",
+    "apellido": "Perez",
+    "cedula": "221421431231"
+  },
+  "curso": {
+    "titulo": "Cálculo Vectorial",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 54,
+        "second": 28
+      },
+      "valor": 14.85,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 54,
+        "second": 36
+      },
+      "valor": 18.45,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 54,
+        "second": 42
+      },
+      "valor": 12.45,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "4d7db2d7-0672-4f77-957f-2f7475f5041f",
+  "promedio": 15.250001
+}

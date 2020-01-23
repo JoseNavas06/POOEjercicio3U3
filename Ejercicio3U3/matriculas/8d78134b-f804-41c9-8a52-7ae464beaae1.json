@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 47
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Marco",
+    "apellido": "Bonilla",
+    "cedula": "232341124141"
+  },
+  "curso": {
+    "titulo": "Cálculo Vectorial",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 30
+      },
+      "valor": 9.18,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 33
+      },
+      "valor": 19.18,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 39
+      },
+      "valor": 14.18,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "8d78134b-f804-41c9-8a52-7ae464beaae1",
+  "promedio": 14.18
+}

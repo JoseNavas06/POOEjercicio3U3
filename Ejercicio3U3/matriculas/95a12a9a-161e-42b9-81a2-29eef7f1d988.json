@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 38
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Andres",
+    "apellido": "Garcia",
+    "cedula": "232341124141"
+  },
+  "curso": {
+    "titulo": "Programación Móvil",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 37
+      },
+      "valor": 16.869999,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 44
+      },
+      "valor": 13.87,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 49
+      },
+      "valor": 11.87,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "95a12a9a-161e-42b9-81a2-29eef7f1d988",
+  "promedio": 14.203332
+}

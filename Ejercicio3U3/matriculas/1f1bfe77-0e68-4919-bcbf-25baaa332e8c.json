@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 24
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Luis",
+    "apellido": "Zapata",
+    "cedula": "214124321213"
+  },
+  "curso": {
+    "titulo": "POO",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 52,
+        "second": 10
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 52,
+        "second": 18
+      },
+      "valor": 12.06,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 52,
+        "second": 26
+      },
+      "valor": 17.86,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "1f1bfe77-0e68-4919-bcbf-25baaa332e8c",
+  "promedio": 14.973334
+}

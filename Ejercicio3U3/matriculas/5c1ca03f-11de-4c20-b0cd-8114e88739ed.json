@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 49
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Marco",
+    "apellido": "Bonilla",
+    "cedula": "232341124141"
+  },
+  "curso": {
+    "titulo": "Programación Móvil",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 55,
+        "second": 5
+      },
+      "valor": 12.45,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 55,
+        "second": 17
+      },
+      "valor": 18.4,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 55,
+        "second": 27
+      },
+      "valor": 11.44,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "5c1ca03f-11de-4c20-b0cd-8114e88739ed",
+  "promedio": 14.096665
+}

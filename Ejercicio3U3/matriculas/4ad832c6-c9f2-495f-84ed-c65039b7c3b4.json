@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 22
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Maria",
+    "apellido": "Suarez",
+    "cedula": "221421431231"
+  },
+  "curso": {
+    "titulo": "Programación Móvil",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 53,
+        "second": 39
+      },
+      "valor": 10.08,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 53,
+        "second": 45
+      },
+      "valor": 12.88,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 53,
+        "second": 53
+      },
+      "valor": 14.85,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "4ad832c6-c9f2-495f-84ed-c65039b7c3b4",
+  "promedio": 12.6033325
+}

@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 1
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Gabriel",
+    "apellido": "Arellano",
+    "cedula": "221421431231"
+  },
+  "curso": {
+    "titulo": "Fisica Clásica",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 37
+      },
+      "valor": 11.56,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 38
+      },
+      "valor": 11.56,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 40
+      },
+      "valor": 11.56,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "7003a273-d553-4097-84ac-89fc3e9e93c1",
+  "promedio": 11.56
+}

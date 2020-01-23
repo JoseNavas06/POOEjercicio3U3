@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 43
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Marco",
+    "apellido": "Bonilla",
+    "cedula": "232341124141"
+  },
+  "curso": {
+    "titulo": "Fisica Clásica",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 35
+      },
+      "valor": 11.57,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 40
+      },
+      "valor": 15.57,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 45
+      },
+      "valor": 18.57,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "478b5c66-9120-4387-b74e-168a1621d274",
+  "promedio": 15.236667
+}

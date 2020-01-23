@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 42
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Alejandra",
+    "apellido": "Toapanta",
+    "cedula": "1243231411"
+  },
+  "curso": {
+    "titulo": "POO",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 7
+      },
+      "valor": 14.01,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 12
+      },
+      "valor": 17.01,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 14
+      },
+      "valor": 17.01,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "37ae1827-cb4c-4024-8907-4f890be3344e",
+  "promedio": 16.01
+}

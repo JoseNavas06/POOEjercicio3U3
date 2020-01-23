@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 55
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Gabriel",
+    "apellido": "Arellano",
+    "cedula": "221421431231"
+  },
+  "curso": {
+    "titulo": "POO",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 6
+      },
+      "valor": 18.5,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 11
+      },
+      "valor": 11.5,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 16
+      },
+      "valor": 11.5,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "547ba541-3c18-488d-bd6a-008e85159219",
+  "promedio": 13.833333
+}

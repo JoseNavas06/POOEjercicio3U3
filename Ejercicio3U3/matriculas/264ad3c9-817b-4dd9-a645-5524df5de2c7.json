@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 49,
+    "second": 21
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Luis",
+    "apellido": "Zapata",
+    "cedula": "214124321213"
+  },
+  "curso": {
+    "titulo": "Programación Móvil",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 8
+      },
+      "valor": 11.87,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 20
+      },
+      "valor": 14.87,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 30
+      },
+      "valor": 14.76,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "264ad3c9-817b-4dd9-a645-5524df5de2c7",
+  "promedio": 13.833333
+}

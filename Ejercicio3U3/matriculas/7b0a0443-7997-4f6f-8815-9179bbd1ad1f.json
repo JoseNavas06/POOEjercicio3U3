@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 50,
+    "second": 18
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Maria",
+    "apellido": "Suarez",
+    "cedula": "221421431231"
+  },
+  "curso": {
+    "titulo": "Fisica Clásica",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 5
+      },
+      "valor": 11.44,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 15
+      },
+      "valor": 15.14,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 56,
+        "second": 22
+      },
+      "valor": 17.14,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "7b0a0443-7997-4f6f-8815-9179bbd1ad1f",
+  "promedio": 14.573334
+}

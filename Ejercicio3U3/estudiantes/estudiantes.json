@@ -1,0 +1,122 @@
+[
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Andinismo",
+      "Club de Basketball",
+      "Club de Fotografía"
+    ],
+    "nombre": "Jose",
+    "apellido": "Navas",
+    "cedula": "134214243"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basketball",
+      "Club de Danza",
+      "Club de Programación"
+    ],
+    "nombre": "Pedro ",
+    "apellido": "Lopez",
+    "cedula": "3242141312"
+  },
+  {
+    "carrera": "Ingeniería Petroquímica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Andinismo",
+      "Club de Basketball",
+      "Club de Danza",
+      "Club de Programación"
+    ],
+    "nombre": "Juan ",
+    "apellido": "Perez",
+    "cedula": "42142142344"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basketball",
+      "Club de Fotografía",
+      "Club de Robótica"
+    ],
+    "nombre": "Luis",
+    "apellido": "Zapata",
+    "cedula": "214124321213"
+  },
+  {
+    "carrera": "Ingeniería Petroquímica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basketball",
+      "Club de Danza",
+      "Club de Programación"
+    ],
+    "nombre": "Andres",
+    "apellido": "Garcia",
+    "cedula": "232341124141"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basketball",
+      "Club de Danza",
+      "Club de Programación"
+    ],
+    "nombre": "Marco",
+    "apellido": "Bonilla",
+    "cedula": "232341124141"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Andinismo",
+      "Club de Basketball",
+      "Club de Música"
+    ],
+    "nombre": "Gabriel",
+    "apellido": "Arellano",
+    "cedula": "221421431231"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basketball",
+      "Club de Fotografía"
+    ],
+    "nombre": "Andrea",
+    "apellido": "Perez",
+    "cedula": "221421431231"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Basketball",
+      "Club de Danza",
+      "Club de Fotografía",
+      "Club de Robótica"
+    ],
+    "nombre": "Maria",
+    "apellido": "Suarez",
+    "cedula": "221421431231"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Andinismo",
+      "Club de Basketball",
+      "Club de Fotografía",
+      "Club de Música",
+      "Club de Robótica"
+    ],
+    "nombre": "Alejandra",
+    "apellido": "Toapanta",
+    "cedula": "1243231411"
+  }
+]

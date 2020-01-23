@@ -1,0 +1,18 @@
+[
+{
+        "titulo": "Fisica Clásica",
+        "descripción " : "Dinámica",
+        "costo" :  50.0},
+        
+        {"titulo": "POO",
+        "descripción " : "Clase Interna",
+        "costo" :  50.0},
+        
+        {"titulo": "Cálculo Vectorial",
+        "descripción " : "Longitud de Arco",
+        "costo" :  50.0},
+        
+        {"titulo": "Programación Móvil",
+        "descripción " : "Android",
+        "costo" :  100.0}
+]

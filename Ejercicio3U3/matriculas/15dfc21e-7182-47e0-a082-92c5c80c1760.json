@@ -1,0 +1,60 @@
+{
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 19,
+    "second": 9
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Jose",
+    "apellido": "Navas",
+    "cedula": "134214243"
+  },
+  "curso": {
+    "titulo": "Cálculo Vectorial",
+    "costo": 50.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 50,
+        "second": 7
+      },
+      "valor": 14.05,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 37
+      },
+      "valor": 17.05,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 43
+      },
+      "valor": 13.05,
+      "unidad": "III"
+    }
+  ],
+  "numeromatricula": "15dfc21e-7182-47e0-a082-92c5c80c1760",
+  "promedio": 14.716666
+}
